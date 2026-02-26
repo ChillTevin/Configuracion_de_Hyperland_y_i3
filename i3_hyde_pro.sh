@@ -1,4 +1,3 @@
-cat << 'EOF' > ~/hyde_modular_extractor.sh
 #!/bin/bash
 
 I3_DIR="$HOME/.config/i3"
